@@ -1,6 +1,6 @@
 Name:		texlive-zref
-Version:	62977
-Release:	2
+Version:	68278
+Release:	1
 Summary:	A new reference scheme for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zref
