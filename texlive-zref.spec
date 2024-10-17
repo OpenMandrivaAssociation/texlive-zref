@@ -3,7 +3,7 @@ Version:	68278
 Release:	1
 Summary:	A new reference scheme for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zref
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zref.doc.r%{version}.tar.xz
